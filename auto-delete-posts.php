@@ -1,6 +1,9 @@
 <?php
 /**
  * Plugin Name: WP delete old posts every 6 months
+ * Text Domain: autodeleteposts
+ * Author:      Muhammad Farhan Khan
+ * Author URI:  http://emaksolution.com
  * Description: Deletes all posts older than 6 months every 6 months
  * Version: 1.0
  */
